@@ -1,0 +1,17 @@
+{
+    "name": "spurius/relokia_test",
+    "autoload": {
+        "psr-4": {
+            "Spurius\\RelokiaTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SpuriusGit",
+            "email": "d.tatochenko@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
